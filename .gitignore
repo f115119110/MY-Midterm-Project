@@ -1,0 +1,30 @@
+Virtual Environments
+
+.venv/
+venv/
+ENV/
+env/
+ai26/
+
+Jupyter Notebook Checkpoints
+
+.ipynb_checkpoints/
+
+Database & Vector Cache
+
+*.sqlite3
+*.db
+*.pkl
+*.npy
+
+IDE & Editor Files
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+OS Generated Files
+
+.DS_Store
+Thumbs.db
